@@ -1,7 +1,7 @@
 # Analyze-AB-Test-Results
 
 
-### This is the first project of Udacity Nanodegree (Advanced Data Analysis)
+## This is the first project of Udacity Nanodegree (Advanced Data Analysis)
 
 
 ### Discription
